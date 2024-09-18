@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.nx/installation
+.nx/cache
+.nx/workspace-data
